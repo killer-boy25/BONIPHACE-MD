@@ -31,43 +31,7 @@
 ---
 
 
-</a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com/boniphace478/Boniphace-md"><b>Boniphace-md</b></a> Support Deploy On...
-</p>
-
-<p align="center">
-  <a href="https://github.com/boniphace478/Boniphace-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
-
-
-
-    
  
- 
-
-
-
----
-
-
-
-
-
-
-
-
-
-## 1.FIRST STEP 
-## Fork Boniphace Md Repo
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐶𝐿𝐼𝐶𝐾+𝑇𝑂+𝐹𝑂𝑅𝐾+𝑇𝐻𝐸+𝑅𝐸𝑃𝑂)](https://git.io/typing-svg)
 
 </p>
@@ -75,9 +39,6 @@
 - <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-star✨ my repo if you like this bot🤖
-
-## 2.SECOND STEP 
 
  GET SESSION ID BY
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -93,7 +54,7 @@ star✨ my repo if you like this bot🤖
 
 - <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-### 3.THIRD STEP 
+ 
 1. If You Don't Have An Account On Heroku**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
