@@ -74,28 +74,7 @@
   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓅓)](https://git.io/typing-svg)
 
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-*** 𝐷𝐸𝑃𝐿𝑂𝑌 𝑇𝑂 𝑅𝐸𝑁𝐷𝐸𝑅
- 
- GET SESSION ID BY
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝑇𝐻𝐼𝑆+𝐼𝑆+𝑆𝐸𝑆𝑆𝐼𝑂𝑁+𝑆𝐼𝑇𝐸+🤙)](https://git.io/typing-svg)
-
-</p>
-
-- <a href="https://yesser-scanner-8309ae116f64.herokuapp.com/"><img title="SERVER 01" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 01-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-#### DEPLOY ON RENDER 
-1. `If You Don't Have An Account On Render`
-- <a href="https://dashboard.render.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-2. `If You Have an account on Render`
-- <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
